@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15568</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15568.wav</FileName>
+  <ClassId>ssmptq</ClassId>
+  <Date>2000-06-01</Date>
+  <Time>?</Time>
+  <Locality>Humedal de Tibanica, Bosa, Bogotá D.C.</Locality>
+  <Latitude>4.6030444444</Latitude>
+  <Longitude>-74.2044555556</Longitude>
+  <Elevation>2546</Elevation>
+  <Author>Paula Caycedo Rosales (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 7557To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>apolinari</Species>
+  <Sub-species>apolinari</Sub-species>
+  <VernacularNames>Apolinar's Wren</VernacularNames>
+</Audio>
